@@ -15,6 +15,16 @@ public class RotatePlus extends Rotate {
     private float pivotXPercent = 0.5f;
     private float pivotYPercent = 0.5f;
 
+    public RotatePlus() {
+    
+    }
+
+    public RotatePlus(float pivotXPercent, float pivotYPercent) {
+        super();
+        setPivotXPercent(pivotXPercent);
+        setPivotYPercent(pivotYPercent);
+    }
+
     public RotatePlus setPivotXPercent(float value) {
         if (value < 0f) {
             throw new IllegalArgumentException("pivotXPercent cannot be negative!");
