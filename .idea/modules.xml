@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Transitions-Everywhere-Expand.iml" filepath="$PROJECT_DIR$/Transitions-Everywhere-Expand.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/expand/expand.iml" filepath="$PROJECT_DIR$/expand/expand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/expand_support/expand_support.iml" filepath="$PROJECT_DIR$/expand_support/expand_support.iml" />
     </modules>
   </component>
 </project>
